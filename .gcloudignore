@@ -1,0 +1,4 @@
+.venv/
+test_data.json
+deploy.sh
+__pycache__

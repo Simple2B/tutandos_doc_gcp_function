@@ -1,0 +1,31 @@
+{
+    "dataItem": {
+        "metadata": {
+            "date": "10.10.1991",
+            "client_name": "Google",
+            "location": "NY"
+        }, 
+        
+        "sectionDataList": [
+            {
+                "number": "54",
+                "title": "Some title",
+                "score": 3.90,
+                "scope": "SCOPE"
+            },
+            {
+                "number": "11",
+                "title": "Second title",
+                "score": 90,
+                "scope": "second scope"
+            }
+        ], 
+        "subsectionDataList": [
+            {
+                "number": "10",
+                "title": "subsection title",
+                "score": 89.1,
+                "comments": "This is comment"
+            }
+        ]
+        }, "uuid": "f3259054-db30-4f25-9863-f46e7da7d748", "user": "DEnO9zw1PXTnHW16uhBXW1DZKHC2"}
